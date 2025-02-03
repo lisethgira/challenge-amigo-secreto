@@ -25,6 +25,9 @@ Este proyecto es una aplicación interactiva que permite agregar nombres a una l
 │── 📄 style.css     # Estilos de la aplicación
 │── 📄 app.js        # Lógica del sorteo y alertas
 ```
+## 🚀 **Proceso de Seguimiento de Tareas**
+
+El proceso de seguimiento de los requerimientos y avances del proyecto se realizó utilizando **Trello**. Puedes acceder a nuestro tablero de Trello [aquí](https://trello.com/invite/b/67a0f9e1038aad0432af43aa/ATTIcf1402c1d851b3a440bd5c0c364b576d90D61D6D/trello-challenge-amigo-secreto-esp) para ver el estado de las tareas, asignaciones y progreso.
 
 ## 📜 Instrucciones de Uso
 1. **Descarga o clona este repositorio:**
