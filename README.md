@@ -1,2 +1,52 @@
-# challenge-amigo-secreto
- Amigo secreto En este desafío, desarrollarás una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".  El usuario deberá agregar nombres mediante un campo de texto y un botón "Adicionar". Los nombres ingresados se mostrarán en una lista visible en la página, y al finalizar, un botón "Sortear Amigo" seleccionará uno de los nombres de forma aleatoria, mostrando el resultado en pantalla.  Fucionalidades: Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".  Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.  Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.  Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página. 
+# 🎉 Sorteo de Amigos Secretos
+
+Este proyecto es una aplicación interactiva que permite agregar nombres a una lista y sortear un amigo secreto al azar. También incluye la funcionalidad de eliminar nombres con un botón de papelera 🗑️ y mostrar alertas bonitas en la interfaz en lugar de los típicos cuadros de alerta.
+
+## 🚀 Características
+- 📌 Agregar nombres a la lista.
+- 🗑️ Eliminar nombres con un botón de papelera.
+- 🎁 Sortear un amigo secreto aleatoriamente.
+- 🔔 Alertas visuales y agradables para mostrar mensajes.
+- 🎨 Diseño estilizado con CSS.
+
+## 🛠️ Tecnologías Utilizadas
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+## 📂 Estructura del Proyecto
+```
+📁 amigo-secreto
+│── 📁 assets        # Carpeta para imágenes, íconos y otros archivos estáticos
+    │── 📄 amigo-secreto.png    # Imagen de fondo
+    │── 📄 challenge.png        # captura de la aplicación
+    │── 📄 play_circle_outline.png       # imagen para boton de sorteo
+│── 📄 index.html    # Archivo principal de la interfaz
+│── 📄 style.css     # Estilos de la aplicación
+│── 📄 app.js        # Lógica del sorteo y alertas
+```
+
+## 📜 Instrucciones de Uso
+1. **Descarga o clona este repositorio:**
+   ```bash
+   git clone https://github.com/tu-usuario/amigo-secreto.git
+   ```
+2. **Abre `index.html` en tu navegador.**
+3. **Ingresa nombres en el campo de texto y agrégalos a la lista.**
+4. **Elimina un nombre haciendo clic en la papelera 🗑️.**
+5. **Haz clic en "Sortear" para elegir un amigo secreto aleatorio.**
+6. **Disfruta de las alertas visuales y la experiencia interactiva.**
+
+## 🎨 Captura de Pantalla
+![Vista previa de la aplicación](./assets/challenge.png)
+
+## 📌 Mejoras Futuras
+- [ ] Permitir reordenar la lista arrastrando los nombres.
+- [ ] Guardar la lista en el almacenamiento local del navegador.
+- [ ] Agregar efectos de sonido al agregar o eliminar nombres.
+
+## 📄 Licencia
+Este proyecto está bajo la Licencia MIT. Puedes usarlo y modificarlo libremente.
+
+---
+📌 ¡Espero que disfrutes este proyecto! Si tienes alguna mejora o sugerencia, ¡házmelo saber! 😊
